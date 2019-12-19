@@ -2,43 +2,40 @@ body {
     background-color: chocolate;
 }
 
-.laclasse {
-    margin: 20px;
+.chienChoque {
+    margin: 10px;
     background-color: darkmagenta;
 }
 
-.laclasse h1 {
-    color: blue;
-    padding: 10px 40px 10px 40px;
+
+iframe {
+    margin: 10px 40px 10px 30px;
 }
 
-.laclasse iframe {
-    margin: 10px 40px 10px 40px;
-}
-
-.ladedi {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 18px;
+#dedi1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 120%;
     color: aqua;
 }
 
-.ladedi img {
-    width: 8%;
+img {
+    width: 8.5%;
 }
 
-.ladedi2 {
+#dedi2 , #dedi3{
     text-align: right;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial; /* moche mais efficace ^^ */
     color: white;
+    font-size: 1vw;
 }
 
-.ladedi2 img {
-    width: 8%;
-}
 
-.lesdedis {
+.Dedis {
     display: flex;
-    border-color: black;
+    border-color: ligthgreen;
     border-radius: 2px;
     border: dotted;
+}
+#footer{
+  text-align: center;
 }
