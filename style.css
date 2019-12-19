@@ -1,3 +1,10 @@
+header {
+background: transparent url(image.jpg) no-repeat center top;
+height: 699px;
+text-align: center;
+}
+
+
 body {
   color : red;
 }
