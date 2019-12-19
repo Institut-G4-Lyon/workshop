@@ -1,0 +1,42 @@
+*{
+	font-family: Arial;
+}
+
+header{
+	font-size: 20px;
+}
+
+.summary{
+	margin: 20px;
+}
+
+.intro{
+	background-color: lightblue;
+	padding: 20px;
+}
+
+.preamble{
+	border: 1px black solid;
+	padding: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	background-color: black;
+	transition: .3s;
+}
+
+a:hover{
+	background-color: lightgrey;
+	color: black;
+}
+
+p{
+	margin: 5px;
+}
+
+footer{
+	background-color: red;
+}
