@@ -1,6 +1,1 @@
-#!/bin/bash
-for i in {1...400}
-do
-   echo "Welcome $i times" >> time$i.txt
-done
-
+nan mais modifie index.html uo index.css creer pas de la merde
