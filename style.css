@@ -14,3 +14,14 @@ p {
     font-size: medium;
     color: blueviolet;
 }
+a{
+    font-size: larger;
+    color: greenyellow;
+}
+li{
+    color: darkgoldenrod;
+    font-size: 125px;
+}
+body{
+    background-color: grey;
+}
