@@ -1,0 +1,9 @@
+body {
+  background-color: #fad495;
+}
+
+body div {
+  border: 10px;
+  border-radius: 15px;
+  border-color: #2c29c6;
+}
