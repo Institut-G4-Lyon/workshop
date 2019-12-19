@@ -1,0 +1,24 @@
+h1{
+	color: RED;
+	border: solid 2px gray;
+	text-align: center;
+}
+
+h2, h3, h4, h5{
+	color : #f39;
+	text-align: center;
+}
+
+html{
+	background-color: RED;
+}
+
+body{
+	font-family: Lato Regular;
+	text-align: justify;
+	border: groove 1px lightgray;
+	padding: 0% 5%;
+	margin: 0% 5%;
+	background-color: lightgray;
+}
+
