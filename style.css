@@ -7,3 +7,9 @@ body div {
   border-radius: 15px;
   border-color: #2c29c6;
 }
+
+p {
+  color: #fff;
+  background-color: #60104c;
+  box-shadow: 10px 5px 5px #a90ec2;
+}
