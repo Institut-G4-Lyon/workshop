@@ -1,0 +1,11 @@
+.page-wrapper {
+	background-color: blue;
+}
+
+.design-name {
+	border: 5em solid red;
+}
+
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
