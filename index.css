@@ -1,0 +1,23 @@
+body
+{
+    background-color:red;
+}
+
+.intro
+{
+    border:1px dashed black;
+    background-color:yellow;
+}
+
+.main-supporting
+{
+    border:3px solid green;
+    background-color:white;
+}
+
+.sidebar
+{
+    background-color:green;
+}
+
+
