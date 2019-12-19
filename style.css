@@ -1,3 +1,10 @@
 h1{
-    color: aqua;
+    color: rgba(125, 58, 255, 0.8);
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: royalblue;
 }
