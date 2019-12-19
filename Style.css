@@ -8,3 +8,12 @@ body {
   color:white;
   background-size: 5%;
 }
+
+.ricardo {
+width: 100%;
+text-align: center;
+}
+
+.ricardo img {
+width: 800px;
+}
