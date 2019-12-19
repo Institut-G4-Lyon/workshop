@@ -2,3 +2,8 @@ h1 {
   font-size: 35px;
   color:red;
 }
+
+body {
+  background-image: url("https://media1.giphy.com/media/f3e3vLxB7TOuIxDVrX/source.gif");
+  color:white;
+}
