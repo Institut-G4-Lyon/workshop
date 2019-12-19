@@ -1,8 +1,5 @@
-.page-wrapper {
-    background-color: red;
+body {
+    background-image: url('images/ricardo.jfif');
+    color : white;
+    text-align: center;
 }
-
-.summary {
-    background-color: rgb(45, 214, 22);
-}
-
