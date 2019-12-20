@@ -15,10 +15,22 @@ html{
 }
 
 body{
-margin: 0;
+  margin: 0;
 }
 .page-wrapper{
-margin-left: 15rem;
-margin-right: 15rem;
-margin-top: 5rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-top: 5rem;
+}
+
+#zen-intro h1{
+  position: absolute;
+  opacity: 0.125;
+  transform: rotate(90deg);
+  /* transform: translate(-50%,-50%); */
+  top: 50%;
+  right: 50px;
+
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 100px;
 }
