@@ -1,0 +1,24 @@
+*,html {
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  background-color:rgba(232, 236, 240, 1);
+}
+
+#canvas{
+  position: fixed;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left:50%;
+}
+
+body{
+margin: 0;
+}
+.page-wrapper{
+margin-left: 15rem;
+margin-right: 15rem;
+margin-top: 5rem;
+}
