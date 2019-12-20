@@ -6,5 +6,16 @@ text-align: center;
 
 
 body {
-  color : red;
+  color : yellow;
+}
+
+h3 {
+  color : black;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+a:hover {
+  color : green;
+  background: #555;
 }
