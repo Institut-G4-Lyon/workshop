@@ -1,0 +1,3 @@
+Comment faire un cherry pick ? 
+Comment réorganiser son historique quand on a commit à l'arrache dans en faisant différentes tâches dans le désordre ?
+ 
