@@ -1,0 +1,27 @@
+h1{
+    color: aqua;
+    font-size: 100px;
+}
+h2 {
+    font-size: x-large;
+    color: crimson;
+}
+h3{
+    color: darkseagreen;
+    font-size: xx-small;
+}
+p {
+    font-size: medium;
+    color: blueviolet;
+}
+a{
+    font-size: larger;
+    color: greenyellow;
+}
+li{
+    color: darkgoldenrod;
+    font-size: 125px;
+}
+body{
+    background-color: grey;
+}
