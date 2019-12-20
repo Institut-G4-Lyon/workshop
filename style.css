@@ -1,10 +1,18 @@
 h1{
-    color: rgba(125, 58, 255, 0.8);
+    color: rgba(110, 151, 226, 0.8);
 }
 
-.intro {
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#zen-intro {
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    background-color: royalblue;
+    background-color: rgba(25, 125, 80, 0.5);
+    border-radius: 1em;
+    padding: 1em;
 }
