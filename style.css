@@ -1,0 +1,65 @@
+*{
+	font-family: Arial;
+
+}
+
+header{
+	font-size: 20px;
+}
+
+body{
+	background-image: url("image.png");
+	background-size: cover;
+	background-repeat: no-repeat;}
+
+.summary{
+	margin: 20px;
+}
+
+.intro{
+	padding: 20px;
+}
+
+.preamble{
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.requirements{
+	padding: 20px;
+	background-image: url("ruuun2.gif");
+}
+
+.participation{
+	padding: 20px;
+	background-image: url("reading.gif");
+	text-shadow: 0.1em 0.1em white;
+
+}
+
+aside{
+	background-image: url("VNR.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	background-color: black;
+	transition: .3s;
+}
+
+a:hover{
+	background-color: lightgrey;
+	color: black;
+}
+
+p{
+	margin: 5px;
+}
+
+footer{
+	background-color: red;
+}
