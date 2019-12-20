@@ -22,6 +22,61 @@ li{
     color: darkgoldenrod;
     font-size: 125px;
 }
-body{
-    background-color: grey;
+body {
+    background-color: #141723 ;
+    /* background-color: #FFF ; */
+    overflow: hidden;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --line-stroke: #0074b3;
+    /* --grid-stroke: #00adef; */
+    --line-stroke-width: 1.5;
+    --circle-fill: #00adef;
+    --circle-stroke: #0074b3;
+}
+
+svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+
+}
+.trailLine {
+    stroke:var(--line-stroke);
+    stroke-width: var(--line-stroke-width);
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 4 10
+}
+.gridRect {
+    stroke:var(--circle-stroke);
+
+
+}
+#grid {
+
+    opacity: 0.085;
+
+}
+#glowAlpha {
+    flood-color: var(--circle-stroke)
+}
+.plane {
+    fill:#CCC;
+}
+
