@@ -1,0 +1,20 @@
+h1 {
+  font-size: 35px;
+  color:red;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://media1.giphy.com/media/f3e3vLxB7TOuIxDVrX/source.gif");
+  color:white;
+  background-size: 5%;
+}
+
+.ricardo {
+width: 100%;
+text-align: center;
+}
+
+.ricardo img {
+width: 800px;
+}
