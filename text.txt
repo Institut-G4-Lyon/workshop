@@ -1,3 +1,5 @@
 Comment faire un cherry pick ? 
 Comment réorganiser son historique quand on a commit à l'arrache dans en faisant différentes tâches dans le désordre ?
- 
+
+Comment debogguer du code avec bisect ?
+Comment bien utiliser un rebase --onto, comment éviter les conflits avec de l'ancien code ? 
