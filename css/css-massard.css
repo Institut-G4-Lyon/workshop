@@ -7,6 +7,7 @@ html{
   background-color:rgba(232, 236, 240, 1);
 }
 
+
 #canvas{
   position: fixed;
   transform: translate(-50%,-50%);
@@ -30,7 +31,7 @@ body{
   transform: rotate(90deg);
   /* transform: translate(-50%,-50%); */
   top: 50%;
-  right: 50px;
+  right: -250px;
 
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   font-size: 100px;
